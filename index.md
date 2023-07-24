@@ -6,10 +6,10 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Behavior-and-Electrophysiology-in-Depression)
 
-Designed and implemented a year-long clinical research project in [***Dr. Kelly Bijanki's Neurosurgery lab***](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. [***Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)***](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
-
+Designed and implemented a year-long clinical research project in [Dr. Kelly Bijanki's Neurosurgery lab](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. [Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
+<br>
 <center><img src="images/pic02.jpg"/></center>
-
+<br>
 ---
 ## Undergraduate Projects 
 
@@ -20,9 +20,9 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Replicate-Results-of-Research-Paper)
 
 <div style="text-align: justify">I obtained a raw data set used in the research paper. This data set served as the foundation for my exploration and analysis. With access to the raw data, I aimed to replicate specific findings and heat maps presented in the original study using my data analysis and programming skills. I leveraged the power of R; specifically, I chose R Markdown to structure my project. The primary objective of my capstone project was to accurately reproduce the results featured in the research paper using  R programming, data manipulation, and statistical analysis.</div>
-
+<br>
 <center><img src="pdf/finalpaper.pdf"/></center>
-
+<br>
 ---
 ### Relational Databases and SQL
 
@@ -70,13 +70,12 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 ## Publications
 
 <div style="text-align: justify">As a Student Researcher at the Icahn School of Medicine in Dr. Eric Nestler's Lab, I conducted research on the connection between pathological aggression and reward circuits in the brain. Using mouse models, I performed behavioral testing sessions to study emotion processing in complex decision-making related to aggressive behaviors. The research aimed to understand how maladaptive reinforcement of aggression occurs which lead to a publication and coauthorship in Biological Psychiatry and Science.</div>
+<br><br>
 
 [***Linking Brain-Wide Activity Patterns During Neuroeconomic Decision Making to Aggression***](10.1016/j.biopsych.2023.02.264)
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>
-
----
 
 [***Distinct forms of regret linked to resilience versus susceptibility to stress are regulated by region-specific CREB function in mice***](10.1126/sciadv.add5579)
 <br>
