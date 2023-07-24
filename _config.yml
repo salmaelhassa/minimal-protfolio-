@@ -1,11 +1,10 @@
 title: Salma Elhassa # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
+ 
+  <br>I am an incoming BME M.S. student with a B.A. in biology bioinformatics interested in advancing neuromodulation devices to treat neurological disorders.<br>
+  <a href="https://www.linkedin.com/in/salma-elhassa-1761b418a">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
