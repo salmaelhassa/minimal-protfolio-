@@ -14,6 +14,7 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 ## Undergraduate Projects 
 
 ### Biomedical Genomics 
+
 #### Replicate Results Using a Raw Data Set Produced by Primary Research Paper
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Replicate-Results-of-Research-Paper)
@@ -24,6 +25,7 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 
 ---
 ### Relational Databases and SQL
+
 #### Covid-19 Vaccinations in US Data
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Covid-19-Vaccination-US)
@@ -35,6 +37,7 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 
 ---
 ### Practical Unix Programming
+
 #### Gene Codon Sequence
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Gene-Codon-Sequence)
@@ -53,6 +56,7 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 <center><img src="images/detect-spam-nlp.png"/></center>
 <br>
 
+---
 ### Computational Molecular Biology
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/2022-Spring-Computational-Molecular-Biology)
@@ -61,8 +65,8 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 <br>
 <center><img src="images/detect-spam-nlp.png"/></center>
 <br>
----
 
+---
 ## Publications
 
 <div style="text-align: justify">As a Student Researcher at the Icahn School of Medicine in Dr. Eric Nestler's Lab, I conducted research on the connection between pathological aggression and reward circuits in the brain. Using mouse models, I performed behavioral testing sessions to study emotion processing in complex decision-making related to aggressive behaviors. The research aimed to understand how maladaptive reinforcement of aggression occurs which lead to a publication and coauthorship in Biological Psychiatry and Science.</div>
@@ -73,6 +77,7 @@ Designed and implemented a year-long clinical research project in [***Dr. Kelly 
 <br>
 
 ---
+
 [***Distinct forms of regret linked to resilience versus susceptibility to stress are regulated by region-specific CREB function in mice***](10.1126/sciadv.add5579)
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
