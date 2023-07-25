@@ -56,13 +56,13 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 ## Publications
 <div style="text-align: justify">As a Student Researcher at the Icahn School of Medicine in Dr. Eric Nestler's Lab, I conducted research on the connection between pathological aggression and reward circuits in the brain. Using mouse models, I performed behavioral testing sessions to study emotion processing in complex decision-making related to aggressive behaviors. The research aimed to understand how maladaptive reinforcement of aggression occurs which lead to a publication and coauthorship in Biological Psychiatry and Science.</div>
 <br>
-[***Linking Brain-Wide Activity Patterns During Neuroeconomic Decision Making to Aggression***](10.1016/j.biopsych.2023.02.264)
+[***Linking Brain-Wide Activity Patterns During Neuroeconomic Decision Making to Aggression***](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(23)00338-4/fulltext)
 
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/biopsych.png"/></center>
 <br>
-[***Distinct forms of regret linked to resilience versus susceptibility to stress are regulated by region-specific CREB function in mice***](10.1126/sciadv.add5579)
+[***Distinct forms of regret linked to resilience versus susceptibility to stress are regulated by region-specific CREB function in mice***](https://www.science.org/doi/10.1126/sciadv.add5579)
 
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/scienceadvance.jpg"/></center>
 <br>
 
 ---
