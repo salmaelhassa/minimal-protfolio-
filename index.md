@@ -55,15 +55,15 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 ---
 ## Publications
 <div style="text-align: justify">As a Student Researcher at the Icahn School of Medicine in Dr. Eric Nestler's Lab, I conducted research on the connection between pathological aggression and reward circuits in the brain. Using mouse models, I performed behavioral testing sessions to study emotion processing in complex decision-making related to aggressive behaviors. The research aimed to understand how maladaptive reinforcement of aggression occurs which lead to a publication and coauthorship in Biological Psychiatry and Science.</div>
-
+<br>
 [***Linking Brain-Wide Activity Patterns During Neuroeconomic Decision Making to Aggression***](10.1016/j.biopsych.2023.02.264)
 
 <center><img src="images/credit-risk-webapp.png"/></center>
-
+<br>
 [***Distinct forms of regret linked to resilience versus susceptibility to stress are regulated by region-specific CREB function in mice***](10.1126/sciadv.add5579)
 
 <center><img src="images/ames-house-price.jpg"/></center>
-
-
+<br>
+<br>
 ---
 <center>© 2023 Salma Elhassa. Powered by Jekyll and the Minimal Theme.</center>
