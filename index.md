@@ -58,7 +58,7 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 <br>
 [***Linking Brain-Wide Activity Patterns During Neuroeconomic Decision Making to Aggression***](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(23)00338-4/fulltext)
 
-<center><img src="images/biopsych.png"/></center>
+<center><img src="images/biopsych.jpg"/></center>
 <br>
 [***Distinct forms of regret linked to resilience versus susceptibility to stress are regulated by region-specific CREB function in mice***](https://www.science.org/doi/10.1126/sciadv.add5579)
 
