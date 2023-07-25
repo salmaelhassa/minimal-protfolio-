@@ -1,10 +1,11 @@
 # Portfolio
 ---
 ## Baylor College of Medicine Postbaccalaureate Research Education Program (PREP) 2022-23
-### Affective Bias and Electrophysiology as Biomarkers of Treatment Resistant Depression 
+[Affective Bias and Electrophysiology as Biomarkers of Treatment Resistant Depression](/sample_page) 
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Behavior-and-Electrophysiology-in-Depression)
 
-Designed and implemented a year-long clinical research project in [Dr. Kelly Bijanki's Neurosurgery lab](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. Presnted findings at Annual Biomedical Research Conference for Minority Students, Anaheim, CA and awarded ABRCMS Presentation Awardee. [Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
+Designed and implemented a year-long clinical research project in [Dr. Kelly Bijanki's Neurosurgery lab](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. Presented findings at Annual Biomedical Research Conference for Minority Students, Anaheim, CA and awarded ABRCMS Presentation Awardee. [Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
 <br>
 <center><img src="images/bcm.png"/></center>
 <br>
@@ -41,7 +42,8 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 
 ---
 ### Relational Databases and SQL 2021
-#### Covid-19 Vaccinations in US Data
+[Covid-19 Vaccinations in US Data](/pdf/sample_presentation.pdf)
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Covid-19-Vaccination-US)
 <div style="text-align: justify">My project focused on leveraging SQL and relational databases to analyze and present COVID-related data, with a specific emphasis on the United States. As the COVID vaccine became available, copious amounts of data were collected, including vaccination rates, the number of vaccinated individuals, and the impact of vaccine rollout on COVID's decline. Recognizing the varying perceptions and misunderstandings about COVID's global impact, I aimed to provide accurate and accessible data to a worldwide audience. </div>
 <br>
@@ -49,8 +51,9 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 <br>
 
 ---
-### Biomedical Genomics 2022
-#### Replicate Results Using a Raw Data Set Produced by Primary Research Paper
+### Biomedical Genomics 2022 
+[Replicate Results Using a Raw Data Set Produced by Primary Research Paper](/pdf/sample_presentation.pdf)
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Replicate-Results-of-Research-Paper)
 <div style="text-align: justify">I obtained a raw data set used in the research paper. This data set served as the foundation for my exploration and analysis. With access to the raw data, I aimed to replicate specific findings and heat maps presented in the original study using my data analysis and programming skills. I leveraged the power of R; specifically, I chose R Markdown to structure my project. The primary objective of my capstone project was to accurately reproduce the results featured in the research paper using  R programming, data manipulation, and statistical analysis.</div>
 <br>
@@ -68,7 +71,6 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 ---
 ## Urban Barcode Research Program (UBRP) 2016-17
 ### Assessing strains of E. coli in the Genus Escherichia in New York City Coastal Waters
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Behavior-and-Electrophysiology-in-Depression)
 
 Designed and implemented a year long research project with mentorship from [Dr. Theodore Muth](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=105), focusing on the assessment of E-Coli biodiversity in Jamaica Bay. Awarded Pinkerton Scholar and presented findingds at the American Museum of Natural History. [Urban Barcode Research Program (UBRP)](https://dnabarcoding101.org/symposium/details/1701).
 <br>
