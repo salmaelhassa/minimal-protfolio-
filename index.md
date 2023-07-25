@@ -4,7 +4,7 @@
 ### Affective Bias and Electrophysiology as Biomarkers of Treatment Resistant Depression 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Behavior-and-Electrophysiology-in-Depression)
 
-Designed and implemented a year-long clinical research project in [Dr. Kelly Bijanki's Neurosurgery lab](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. [Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
+Designed and implemented a year-long clinical research project in [Dr. Kelly Bijanki's Neurosurgery lab](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. Presnted findings at Annual Biomedical Research Conference for Minority Students, Anaheim, CA and awarded ABRCMS Presentation Awardee. [Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
 <br>
 <center><img src="images/bcm.png"/></center>
 <br>
@@ -50,6 +50,16 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 <div style="text-align: justify">This section highlights my accomplishments during the computational molecular biology class. The course offered a comprehensive exploration of neural networks and their applications in deciphering complex biological data. I gained proficiency in implementing and optimizing neural network algorithms, enabling me to manipulate large datasets and extract valuable insights. The class also fostered a deep appreciation for the fusion of biology and computation, opening new possibilities in genomics, drug discovery, and personalized medicine. I am enthusiastic about applying this knowledge to drive innovation and further contribute to the field of computational molecular biology.</div>
 <br>
 <center><img src="images/detect-spam-nlp.png"/></center>
+<br>
+
+---
+## Urban Barcode Research Program (UBRP)
+### Assessing strains of E. coli in the Genus Escherichia in New York City Coastal Waters
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Behavior-and-Electrophysiology-in-Depression)
+
+Designed and implemented a year long research project with mentorship from [Dr. Theodore Muth](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=105), focusing on the assessment of E-Coli biodiversity in Jamaica Bay. Awarded Pinkerton Scholar and presented findingds at the American Museum of Natural History.[Urban Barcode Research Program (UBRP)](https://dnabarcoding101.org/symposium/details/1701).
+<br>
+<center><img src="images/bcm.png"/></center>
 <br>
 
 ---
