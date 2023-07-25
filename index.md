@@ -6,7 +6,7 @@
 
 Designed and implemented a year-long clinical research project in [Dr. Kelly Bijanki's Neurosurgery lab](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. [Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
 <br>
-<center><img src="images/pic02.jpg"/></center>
+<center><img src="images/bcm.png"/></center>
 <br>
 
 ---
