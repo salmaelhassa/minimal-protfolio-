@@ -5,7 +5,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Behavior-and-Electrophysiology-in-Depression)
 
 Designed and implemented a year-long clinical research project in [Dr. Kelly Bijanki's Neurosurgery lab](https://www.bcm.edu/research/faculty-labs/kelly-bijanki-lab), focusing on studying the covariance of depression symptom severity with electroencephalogram (sEEG) recordings. [Baylor College of Medicine Postbaccalaureate Research Education Program (PREP)](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/diversity/postbaccalaureate-research-education-program-prep).
-
+<br>
 <center><img src="images/pic02.jpg"/></center>
 <br>
 
@@ -15,7 +15,7 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 #### Replicate Results Using a Raw Data Set Produced by Primary Research Paper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salmaelhassa/Replicate-Results-of-Research-Paper)
 <div style="text-align: justify">I obtained a raw data set used in the research paper. This data set served as the foundation for my exploration and analysis. With access to the raw data, I aimed to replicate specific findings and heat maps presented in the original study using my data analysis and programming skills. I leveraged the power of R; specifically, I chose R Markdown to structure my project. The primary objective of my capstone project was to accurately reproduce the results featured in the research paper using  R programming, data manipulation, and statistical analysis.</div>
-
+<br>
 <center><img src="pdf/finalpaper.pdf"/></center>
 <br>
 
@@ -64,6 +64,6 @@ Designed and implemented a year-long clinical research project in [Dr. Kelly Bij
 
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
-<br>
+
 ---
 <center>© 2023 Salma Elhassa. Powered by Jekyll and the Minimal Theme.</center>
